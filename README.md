@@ -21,4 +21,4 @@ CSS - HTML - Java Script - SQL - Dart - React Native - Git
 
 
 ## Full presentation : 
-[![Alt text](https://i.pinimg.com/564x/81/97/55/81975517a51651e8f8940759360d01da.jpg)](resources/presentation.pdf)
+[![Alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Fsearch%3Fq%3Dpdf&psig=AOvVaw2dNgPaVuZ3RYpmv73rjj-x&ust=1724841867052000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKiZ_fH-lIgDFQAAAAAdAAAAABAJ)](resources/presentation.pdf)
