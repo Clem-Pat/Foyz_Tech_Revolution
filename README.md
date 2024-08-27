@@ -22,4 +22,4 @@ CSS - HTML - Java Script - SQL - Dart - React Native - Git
 
 ## Full presentation : 
 
-![link](resources/presentation.png)
+![link](resources/presentation.pdf)
