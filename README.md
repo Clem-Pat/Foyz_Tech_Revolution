@@ -21,4 +21,4 @@ CSS - HTML - Java Script - SQL - Dart - React Native - Git
 
 
 ## Full presentation : 
-[![Alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Fsearch%3Fq%3Dpdf&psig=AOvVaw2dNgPaVuZ3RYpmv73rjj-x&ust=1724841867052000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKiZ_fH-lIgDFQAAAAAdAAAAABAJ)](resources/presentation.pdf)
+[![Alt text](https://static.vecteezy.com/system/resources/previews/023/234/824/original/pdf-icon-red-and-white-color-for-free-png.png)](resources/presentation.pdf)
