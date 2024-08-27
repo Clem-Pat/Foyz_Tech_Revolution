@@ -21,4 +21,6 @@ CSS - HTML - Java Script - SQL - Dart - React Native - Git
 
 
 ## Full presentation : 
-[![Alt text](https://static.vecteezy.com/system/resources/previews/023/234/824/original/pdf-icon-red-and-white-color-for-free-png.png)](resources/presentation.pdf)
+<a href="resources/presentation.pdf">
+  <img src="[https://www.example.com/image.png](https://static.vecteezy.com/system/resources/previews/023/234/824/original/pdf-icon-red-and-white-color-for-free-png.png)" alt="Guide Image" width="300" height="200">
+</a>
