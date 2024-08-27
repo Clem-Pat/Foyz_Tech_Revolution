@@ -18,3 +18,8 @@ CSS - HTML - Java Script - SQL - Dart - React Native - Git
 ## Architecture brief presentation : 
 
 ![Alt text](resources/FTR_presentation1.png)
+
+
+## Full presentation : 
+
+![link](resources/presentation.png)
